@@ -1,0 +1,72 @@
+{
+    "1166267": {
+        "blood_pressure": {
+            "value": "95/60 mmhg",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "heart_rate": {
+            "value": "80 beats per minute",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "oxygen_saturation": {
+            "value": "98% on room air",
+            "evidence": [
+                "S_0"
+            ]
+        }
+    },
+    "1236585": {
+        "administration of diuretics": {
+            "value": "known",
+            "evidence": [
+                "S_3"
+            ]
+        },
+        "blood potassium": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "blood pressure": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "blood sodium": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "heart rate": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "improvement of patient\u2019s conditions": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "presence of dyspnea": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        },
+        "spo2": {
+            "value": "known",
+            "evidence": [
+                "S_0"
+            ]
+        }
+    }
+}

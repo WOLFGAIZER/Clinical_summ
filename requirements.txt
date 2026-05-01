@@ -1,0 +1,6 @@
+pandas 
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+ollama

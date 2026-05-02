@@ -1,0 +1,128 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chest pain": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "gastroscopy , any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement of patient\u2019s conditions": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

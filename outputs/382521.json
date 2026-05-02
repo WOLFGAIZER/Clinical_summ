@@ -1,0 +1,230 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "active neoplasia": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of steroids": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "arrhythmia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood transfusions": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "chest pain": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "history of allergy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "pulmonary scintigraphy, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

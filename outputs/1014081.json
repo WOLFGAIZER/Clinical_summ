@@ -1,0 +1,338 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "agitation": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood glucose": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "blood potassium": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood sodium": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic rheumatologic disease": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "covid 19": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "dementia": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "eeg, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "y",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "level_of_autonomy_mobility": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "living_alone": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "need_but_absence_of_a_caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale_skin_during_the_episode": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "peripheral_neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "poly-pharmacological_therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_defibrillator": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "presence_of_pacemaker": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_prodromal_symptoms": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    }
+}

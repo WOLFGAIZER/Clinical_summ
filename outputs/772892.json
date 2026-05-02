@@ -1,0 +1,376 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_3",
+            "S_10"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "arrhythmia": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_3",
+            "S_10"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "c-reactive protein": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic rheumatologic disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "covid 19": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "creatinine": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "dementia": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "eeg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "foreign body in the airways": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "gastroscopy , any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "history of allergy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "homelessness": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "inr": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "living alone": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "palliative care": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    }
+}

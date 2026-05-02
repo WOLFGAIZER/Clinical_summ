@@ -1,7 +1,5 @@
-Here is the clinical summary:
+Here is a short chronological summary focusing on major events, progression over time, and observed cause-effect:
 
-On January 1, 2026, a patient was alert but partially oriented to time and place with hearing impairment. The patient had hypertension (BP 160/90) and tachycardia (HR 80). A cardiac examination revealed paraphonic, arrhythmic tones, while a pulmonary examination showed a diffuse vesicular murmur. Abdominal examination findings included palpable but non-painful or tender masses, with no peripheral edema or changes in skin or mucous membranes.
+On January 1, 2026, the patient presented with a partially oriented state, hearing impairment, and various physical examination findings, including a left lower limb fracture and neurological examination results that were normal. The patient was transferred to the orthopedic department of Maria Vittoria Hospital for surgery on the left femur fracture. The relative was informed and notified of the transfer. Pre-operative assessments, including blood tests, ECG, chest x-ray, and right femur x-ray, were performed and found to be normal.
 
-The patient was subsequently scheduled for surgery on the left femur fracture at the orthopedic department of Maria Vittoria Hospital. The relative was informed and notified of this transfer. Preoperative assessments included blood tests, ECG, chest X-ray, and right femur X-ray, as well as orthopedic and anesthesiological evaluations, all of which were reported to be within normal limits.
-
-Note: I have only used the provided WTTS events and not inferred any missing conditions or made causal links that are not explicitly present in the data. The summary is concise and focuses on major events and progression over time.
+Let me know if you'd like me to make any changes!

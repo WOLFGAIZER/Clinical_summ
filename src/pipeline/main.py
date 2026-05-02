@@ -249,35 +249,56 @@ def run_pipeline(patient_data, crf_schema_keys):
     final_events_sorted = sorted(final_events, key=lambda x: x[2])
 
     # -------------------------------
-    # Step 9: Tier 3 Fusion CoT
+    # Step 9: Tier 3 Fusion CoT (Batched)
     # -------------------------------
-    try:
-        output = generate_crf(final_events_sorted, crf_schema_keys, narrative)
-    except Exception as e:
-        print(f"[LLM ERROR] {pid}: {e}")
-        return {}
+    merged_output = {}
+    batch_size = 40
+
+    for i in range(0, len(crf_schema_keys), batch_size):
+        batch_keys = crf_schema_keys[i:i+batch_size]
+        print(f"[LLM] Processing batch {i//batch_size + 1}/{(len(crf_schema_keys)-1)//batch_size + 1} ({len(batch_keys)} items)...")
+
+        try:
+            output_str = generate_crf(final_events_sorted, batch_keys, narrative)
+            parsed_batch = safe_json_load(output_str)
+            if isinstance(parsed_batch, dict):
+                merged_output.update(parsed_batch)
+        except Exception as e:
+            print(f"[LLM ERROR] {pid} batch {i//batch_size + 1}: {e}")
 
     print(f"[DONE] Patient: {pid}")
 
-    return output
+    return merged_output
 
 
 # -------------------------------
 # Post-processing
 # -------------------------------
 def process_patient(patient_data, crf_schema_keys, idx, total):
+    pid = str(
+        patient_data.get('document_id')
+        or patient_data.get('patient_id')
+        or "unknown_id"
+    )
 
     print(f"\n{'='*50}")
-    print(f"Patient {idx+1}/{total} -> {patient_data['document_id']}")
+    print(f"Patient {idx+1}/{total} -> {pid}")
     print(f"{'='*50}")
 
+    out_path = f"outputs/{pid}.json"
+    if os.path.exists(out_path):
+        print(f"[CACHE] Output already exists for {pid}, skipping.")
+        try:
+            with open(out_path, "r", encoding="utf-8") as f:
+                return pid, json.load(f)
+        except Exception as e:
+            print(f"[CACHE ERROR] Failed to load {out_path}: {e}")
+
     try:
-        result_json = run_pipeline(patient_data, crf_schema_keys)
+        parsed = run_pipeline(patient_data, crf_schema_keys)
 
-        if not result_json:
-            return patient_data['document_id'], None
-
-        parsed = safe_json_load(result_json)
+        if not parsed:
+            return pid, None
 
         final_output = {}
 
@@ -305,11 +326,14 @@ def process_patient(patient_data, crf_schema_keys, idx, total):
                 "evidence": evidence
             }
 
-        return patient_data['document_id'], final_output
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(final_output, f, indent=4)
+
+        return pid, final_output
 
     except Exception as e:
-        print(f"[ERROR] {patient_data['document_id']}: {e}")
-        return patient_data['document_id'], None
+        print(f"[ERROR] {pid}: {e}")
+        return pid, None
 
 
 # -------------------------------
@@ -339,13 +363,14 @@ if __name__ == "__main__":
 
     results = {}
 
-    test_batch_size = 10
+    total_patients = len(eval_patients)
+    os.makedirs("outputs", exist_ok=True)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
 
         futures = [
-            executor.submit(process_patient, p, crf_schema_keys, i, test_batch_size)
-            for i, p in enumerate(eval_patients[:test_batch_size])
+            executor.submit(process_patient, p, crf_schema_keys, i, total_patients)
+            for i, p in enumerate(eval_patients)
         ]
 
         for future in concurrent.futures.as_completed(futures):

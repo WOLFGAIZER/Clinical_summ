@@ -1,0 +1,182 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "body temperature": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "heart rate": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "level_of_autonomy_mobility": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale_skin_during_the_episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "spo2": {
+        "value": "99% on room air",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    }
+}

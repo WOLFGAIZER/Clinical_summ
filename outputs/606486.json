@@ -1,0 +1,104 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "living alone": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "Palliative care": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

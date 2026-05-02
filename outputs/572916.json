@@ -1,0 +1,339 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "arrhythmia": {
+        "value": "y",
+        "evidence": [
+            "S_4",
+            "y | S_9"
+        ]
+    },
+    "blood pressure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "bnp or nt-pro-bnp": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_13",
+            "y | S_15"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "dementia": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "n",
+        "evidence": [
+            "S_13"
+        ]
+    },
+    "heart failure": {
+        "value": "y",
+        "evidence": [
+            "S_2",
+            "S_4",
+            "S_8",
+            "S_10",
+            "S_12",
+            "S_15"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_13"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "improvement of patient\u2019s conditions": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "INR": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "intoxication": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "living alone": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "palliative care": {
+        "value": "y",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of defibrillator": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "presence of pacemaker": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_13"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    }
+}

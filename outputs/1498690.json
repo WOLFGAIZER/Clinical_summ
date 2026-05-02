@@ -1,0 +1,332 @@
+{
+    "ab ingestis pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "active neoplasia": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of steroids": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "agitation": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "aortic dissection": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "arrhythmia": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood calcium": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood glucose": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood potassium": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood sodium": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "body temperature": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardiac tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "carotid sinus massage": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chest pain": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic_dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic_metabolic_failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "foreign_body_in_the_airways": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "general_condition_deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "homelessness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement_of_patient_s_conditions": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "intoxication": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "need_but_absence_of_a_caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neurologist_consultation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale_skin_during_the_episode": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "palliative_care": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "performance_of_thoracentesis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "poly_pharmacological_therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_defibrillator": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "presence_of_pacemaker": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "problematic_family_context": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory_failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "severe anemia": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "spo2": {
+        "value": "y",
+        "evidence": [
+            "S_2 (93%)"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "ab ingestis pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "aortic dissection": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "arrhythmia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiac tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest pain": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neurodegenerative diseases": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_0",
+            "S_2",
+            "S_3"
+        ]
+    },
+    "pulmonary embolism": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0",
+            "S_4"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    }
+}

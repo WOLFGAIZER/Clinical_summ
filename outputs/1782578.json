@@ -1,0 +1,254 @@
+{
+    "ab ingestis pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "aortic dissection": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "eeg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of allergy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level_of_autonomy_mobility": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "living_alone": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "need_but_absence_of_a_caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale_skin_during_the_episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "pneumothorax": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "poly-pharmacological_therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_defibrillator": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "presence_of_pacemaker": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "respiratory_failure": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1",
+            "S_4"
+        ]
+    },
+    "dementia": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_6",
+            "S_7"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1",
+            "S_4"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1",
+            "S_4"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "neurodegenerative diseases": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "pa02": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pac02": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "active neoplasia": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "agitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "aortic dissection": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiac tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic rheumatologic disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "covid 19": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "dementia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "foreign body in the airways": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of allergy": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "homelessness": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    }
+}

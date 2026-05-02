@@ -1,0 +1,200 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "agitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood glucose": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood potassium": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood sodium": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart rate": {
+        "value": "73 bpm",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory_rate": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "supine-to-standing systolic blood pressure test": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "thoracic ultrasound, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

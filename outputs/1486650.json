@@ -1,0 +1,372 @@
+{
+    "ab ingestis pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "active neoplasia": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "agitation": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "aortic dissection": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "arrhythmia": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "body temperature": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardiac tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_7",
+            "S_10"
+        ]
+    },
+    "dementia": {
+        "value": "n",
+        "evidence": [
+            "S_5",
+            "S_6"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0",
+            "S_1"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "history of allergy": {
+        "value": "y",
+        "evidence": [
+            "S_3",
+            "S_14"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement of patient's conditions": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "living alone": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence of defibrillator": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "presence of pacemaker": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    }
+}

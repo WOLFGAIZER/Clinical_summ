@@ -1,0 +1,314 @@
+{
+    "ab ingestis pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood calcium": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood glucose": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood potassium": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood sodium": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "creatinine": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "dementia": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "foreign body in the airways": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "hc03-": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart rate": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "improvement of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement of patient\u2019s conditions": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "spo2": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "supine-to-standing systolic blood pressure test": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    }
+}

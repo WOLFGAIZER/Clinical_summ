@@ -1,0 +1,485 @@
+{
+    "abdomen_ct_scan_any_abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "acute_coronary_syndrome": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute_pulmonary_edema": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "administration_of_bronchodilators": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration_of_diuretics": {
+        "value": "n",
+        "evidence": [
+            "S_24"
+        ]
+    },
+    "administration_of_fluids": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "administration_of_oxygen/ventilation": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "administration_of_steroids": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "anticoagulants_or_antiplatelet_drug_therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "antiepileptic_therapy_already_in_place": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "antihypertensive_therapy": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "aortic_dissection": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "asthma_exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "blood_drug_dosage": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "blood_in_the_stool": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "blood_pressure": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "blood_transfusions": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "bnp_or_nt_pro_bnp": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "body_temperature": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "brain_ct_scan_any_abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "brain_mri_any_abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "cardiac_tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular_diseases": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "carotid_sinus_massage": {
+        "value": "n",
+        "evidence": [
+            "S_20"
+        ]
+    },
+    "chest_ct_scan_any_abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "chest_pain": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "chest_rx_any_abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "chronic_cardiac_failure": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "covid 19": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "eeg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "foreign body in the airways": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "gastroscopy , any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "history of alcohol abuse": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "history of allergy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "history of drug abuse": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "improvement of patient\u2019s conditions": {
+        "value": "y",
+        "evidence": [
+            "S_10",
+            "S_22"
+        ]
+    },
+    "influenza and various infections": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "n",
+        "evidence": [
+            "S_18",
+            "S_20"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "neurodegenerative diseases": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "neurologist consultation": {
+        "value": "y",
+        "evidence": [
+            "S_11",
+            "S_23"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_20"
+        ]
+    },
+    "pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "pneumothorax": {
+        "value": "n",
+        "evidence": [
+            "S_9",
+            "S_10"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_6",
+            "S_24"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_14",
+            "S_17"
+        ]
+    },
+    "presence of prodromal symptoms": {
+        "value": "y",
+        "evidence": [
+            "S_5",
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "n",
+        "evidence": [
+            "S_14",
+            "S_17"
+        ]
+    },
+    "pulmonary embolism": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_10",
+            "S_22"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "urine drug test": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    }
+}

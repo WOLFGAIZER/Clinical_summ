@@ -1,0 +1,230 @@
+{
+    "abdomen ct scan any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "agitation": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "arrhythmia": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "pneumothorax": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "supine-to-standing systolic blood pressure test": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "urine drug test": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    }
+}

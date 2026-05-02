@@ -1,0 +1,286 @@
+{
+    "active neoplasia": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "arrhythmia": {
+        "value": "y",
+        "evidence": [
+            "S_11",
+            "S_12"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "body temperature": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_13"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "chronic_dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic_pulmonary_disease": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "chronic_respiratory_failure": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "copd_exacerbation": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "heart_failure": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "history_of_allergy": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "homelessness": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "improvement of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "influenza and various infections": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "intoxication": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "living alone": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_0",
+            "S_14"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of prodromal symptoms": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_14"
+        ]
+    }
+}

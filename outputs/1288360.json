@@ -1,0 +1,428 @@
+{
+    "ab ingestis pneumonia": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of steroids": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic rheumatologic disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "covid 19": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "dementia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "foreign body in the airways": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemorrhage": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of alcohol abuse": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of allergy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of drug abuse": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "homelessness": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement of patient's conditions": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "influenza and various infections": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neurodegenerative diseases": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neurologist consultation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neuropsychiatric disorders": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "palliative care": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "performance of thoracentesis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pneumonia": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pneumothorax": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pulmonary embolism": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "severe anemia": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational description": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "stiffness during episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "administration of steroids": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "agitation": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "blood alcohol": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "blood pressure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "chest pain": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "first episod of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "history of alcohol abuse": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "history of drug abuse": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "homelessness": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "improvement_of_patient\u2019s_conditions": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "intoxication": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "need_but_absence_of_a_caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "neurologist_consultation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neuropsychiatric_disorders": {
+        "value": "y",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "poly-pharmacological_therapy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "problematic_family_context": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "respiratory_failure": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "tongue bite": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "urine drug test": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "acute pulmonary edema": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of fluids": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "administration of steroids": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "arrhythmia": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "blood drug dosage": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood glucose": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "blood transfusions": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "bnp or nt-pro-bnp": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiac tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "neurodegenerative diseases": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "neuropsychiatric disorders": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence of defibrillator": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_0",
+            "S_1"
+        ]
+    },
+    "presence of pacemaker": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "presence of prodromal symptoms": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_0",
+            "S_1"
+        ]
+    },
+    "respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "situational syncope": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "stiffness during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "tonic-clonic seizures": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "urine drug test": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    }
+}

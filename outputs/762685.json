@@ -1,0 +1,207 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_3",
+            "S_6"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_7",
+            "S_14"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_7",
+            "S_14"
+        ]
+    },
+    "bnp or nt-pro-bnp": {
+        "value": "n",
+        "evidence": [
+            "S_15",
+            "S_13",
+            "S_12"
+        ]
+    },
+    "body temperature": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "n",
+        "evidence": [
+            "S_1",
+            "S_8",
+            "S_16"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "heart rate": {
+        "value": "y",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "influenza and various infections": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "pa02": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "coughing": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "prolonged periods of straining": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "sudden abdominal pain": {
+        "value": "y",
+        "evidence": [
+            "S_10"
+        ]
+    },
+    "phlebotomy": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "spo2": {
+        "value": "y",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "supine-to-standing systolic blood pressure test": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "urine drug test": {
+        "value": "n",
+        "evidence": [
+            "S_13"
+        ]
+    }
+}

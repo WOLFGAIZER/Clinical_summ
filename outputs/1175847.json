@@ -1,0 +1,314 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "active neoplasia": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "acute coronary syndrome": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "aortic dissection": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "arrhythmia": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "cardiac tamponade": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "chronic cardiac failure": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "n",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "chronic renal failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "creatinine": {
+        "value": "y",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "heart rate": {
+        "value": "y",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "hemoglobin": {
+        "value": "y",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "homelessness": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "improvement_of_patient\u2019s_conditions": {
+        "value": "n",
+        "evidence": [
+            "S_1"
+        ]
+    },
+    "influenza_and_various_infections": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "inr": {
+        "value": "y",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "intoxication": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "level_of_autonomy_mobility": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "living_alone": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "pale_skin_during_the_episode": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "platelets": {
+        "value": "y",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "pneumothorax": {
+        "value": "n",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "presence_of_prodromal_symptoms": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "y",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "respiratory_failure": {
+        "value": "y",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "serum_creatinine_kinase": {
+        "value": "n",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "situation description, like coughing, prolonged periods of straining, sudden abdominal pain, phlebotomy": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "supine-to-standing systolic blood pressure test": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "thoracic ultrasound, any abnormalities": {
+        "value": "y",
+        "evidence": [
+            "S_15"
+        ]
+    },
+    "transaminases": {
+        "value": "n",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "troponin": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    }
+}

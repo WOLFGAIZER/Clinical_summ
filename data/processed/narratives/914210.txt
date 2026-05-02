@@ -1,0 +1,3 @@
+Here is the clinical summary:
+
+On January 1, 2026, a patient arrived at the hospital via ambulance due to dyspnea and was admitted to the Covid examination room. Upon arrival, the patient's SpO2 was 86% on room air, with pO2 of 49 and pCo2 of 29. The patient was given perfalgan in the ambulance and had a temperature of 38°C. A central venous catheter (CVP) was placed, as well as an electrocardiogram (ECG), which was performed in the Covid ward due to known Covid positivity.

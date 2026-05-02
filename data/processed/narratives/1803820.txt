@@ -1,0 +1,7 @@
+Here is a concise clinical summary focusing on major events and progression over time:
+
+On January 1st, an 78-year-old patient was brought to the ER with speech impairment and weakness of the right upper limb. The patient had a history of arterial hypertension, obesity, dyslipidemia, former smoking, moderate alcohol consumption, COPD, and mixed hepatopathy. In the afternoon, two episodes of language impairment occurred, lasting a few minutes each. Later that evening, around 8:30 pm, the patient experienced a sudden onset of impaired speech, sensory disturbances, and weakness in the right hand, which persisted until emergency services were called.
+
+Upon arrival at the hospital, the disorder was improving, and by the end of the CT scan, all symptoms had resolved. A neurological examination revealed no signs of focal deficits or visual field response deficit. The patient was suspected to have experienced a left hemispheric transient ischemic attack (TIA) and was recommended for observation with neurological reassessment, as well as treatment with Ascriptin, statins, and evaluation of chest X-ray.
+
+Note: I have only included the provided WTTS events in the summary and avoided inferring missing conditions or hallucinating causal links.

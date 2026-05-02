@@ -1,0 +1,310 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "blood glucose": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "blood pressure": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "body temperature": {
+        "value": "y",
+        "evidence": [
+            "S_0",
+            "y | S_12"
+        ]
+    },
+    "c-reactive protein": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "chest pain": {
+        "value": "n",
+        "evidence": [
+            "S_8",
+            "n | S_9"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "compliance with antiepileptic therapy": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "compression ultrasound (cus), any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "covid 19": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "eeg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "heart rate": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemoglobin": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "history of allergy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "immunosuppression": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "improvement of patient's conditions": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "influenza and various infections": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "intoxication": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "known history of epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "level of autonomy (mobility)": {
+        "value": "y",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "level of consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "need but absence of a caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "neurodegenerative diseases": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "neurologist consultation": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "neuropsychiatric disorders": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pale skin during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "peripheral neuropathy": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "pneumonia": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pneumothorax": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "poly-pharmacological therapy": {
+        "value": "y",
+        "evidence": [
+            "S_13"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "presence of defibrillator": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "presence of dyspnea": {
+        "value": "n",
+        "evidence": [
+            "S_11"
+        ]
+    },
+    "presence of pacemaker": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "presence of prodromal symptoms": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "presence of respiratory distress": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "pulmonary embolism": {
+        "value": "n",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "respiratory failure": {
+        "value": "y",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "sars-cov-2 swab test": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "severe anemia": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "thoracic ultrasound, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "urine drug test": {
+        "value": "n",
+        "evidence": [
+            "S_12"
+        ]
+    }
+}

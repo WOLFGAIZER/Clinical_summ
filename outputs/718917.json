@@ -1,0 +1,427 @@
+{
+    "abdomen ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "administration of bronchodilators": {
+        "value": "n",
+        "evidence": [
+            "S_19"
+        ]
+    },
+    "administration of diuretics": {
+        "value": "n",
+        "evidence": [
+            "S_19"
+        ]
+    },
+    "administration of fluids": {
+        "value": "n",
+        "evidence": [
+            "S_19"
+        ]
+    },
+    "administration of oxygen/ventilation": {
+        "value": "n",
+        "evidence": [
+            "S_19"
+        ]
+    },
+    "agitation": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "anticoagulants or antiplatelet drug therapy": {
+        "value": "n",
+        "evidence": [
+            "S_6"
+        ]
+    },
+    "antiepileptic therapy already in place": {
+        "value": "n",
+        "evidence": [
+            "S_9"
+        ]
+    },
+    "antihypertensive therapy": {
+        "value": "n",
+        "evidence": [
+            "S_17"
+        ]
+    },
+    "arrhythmia": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "asthma exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "blood in the stool": {
+        "value": "n",
+        "evidence": [
+            "S_13"
+        ]
+    },
+    "blood pressure": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "blood transfusions": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "body temperature": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "brain ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "brain mri, any abnormality": {
+        "value": "y",
+        "evidence": [
+            "S_16"
+        ]
+    },
+    "c-reactive protein": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "cardiac ultrasound, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "cardio-pulmonary resuscitation": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "cardiovascular diseases": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "carotid sinus massage": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "chest ct scan, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "chest pain": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "chest rx, any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "chronic dialysis": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic metabolic failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic pulmonary disease": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic respiratory failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "chronic rheumatologic disease": {
+        "value": "y",
+        "evidence": [
+            "S_2",
+            "S_4"
+        ]
+    },
+    "concussive head trauma": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "copd exacerbation": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "covid 19": {
+        "value": "y",
+        "evidence": [
+            "S_1",
+            "S_4"
+        ]
+    },
+    "diffuse vascular disease": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    },
+    "drooling during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_8"
+        ]
+    },
+    "drowsiness, confusion, disorientation as postcritical state": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "ecg monitoring, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "ecg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "eeg, any abnormality": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "epilepsy / epileptic seizure": {
+        "value": "y",
+        "evidence": [
+            "S_9",
+            "S_12"
+        ]
+    },
+    "eye deviation during the episode": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "foreign body in the airways": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "further seizures in the ed": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "gastroscopy , any abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "general condition deterioration": {
+        "value": "y",
+        "evidence": [
+            "S_3",
+            "S_4"
+        ]
+    },
+    "head or other districts trauma": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "heart failure": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "hemorrhage": {
+        "value": "y",
+        "evidence": [
+            "S_2",
+            "S_4"
+        ]
+    },
+    "history of allergy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "history of recent trauma": {
+        "value": "n",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "homelessness": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "immunosuppression": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "influenza_and_various_infections": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "known_history_of_epilepsy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "level_of_autonomy_mobility": {
+        "value": "y",
+        "evidence": [
+            "S_12"
+        ]
+    },
+    "level_of_consciousness": {
+        "value": "y",
+        "evidence": [
+            "S_4"
+        ]
+    },
+    "living_alone": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "need_but_absence_of_a_caregiver": {
+        "value": "n",
+        "evidence": [
+            "S_0"
+        ]
+    },
+    "neuropsychiatric_disorders": {
+        "value": "y",
+        "evidence": [
+            "S_14"
+        ]
+    },
+    "pale_skin_during_the_episode": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "pneumonia": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "pneumothorax": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "poly-pharmacological_therapy": {
+        "value": "y",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "pregnancy": {
+        "value": "n",
+        "evidence": [
+            "S_2"
+        ]
+    },
+    "presence_of_dyspnea": {
+        "value": "y",
+        "evidence": [
+            "S_3"
+        ]
+    },
+    "presence_of_respiratory_distress": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "sars-cov-2_swab_test": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "severe_anemia": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "thoracic_ultrasound_any_abnormalities": {
+        "value": "n",
+        "evidence": [
+            "S_5"
+        ]
+    },
+    "tongue_bite": {
+        "value": "n",
+        "evidence": [
+            "S_7"
+        ]
+    }
+}
